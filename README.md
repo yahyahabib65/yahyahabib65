@@ -24,7 +24,7 @@ yahyahabib65/yahyahabib65 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 -->
 
-<h1 align="center">Hi 👋, I'm Yahya Habib</h1>
+<h1 align="center">Hi there 👋, I'm Yahya Habib</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyahabib65&label=Profile%20views&color=0e75b6&style=flat" alt="yahyahabib65" /> </p>
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **odoo,.NET,SQL,AI,NLP,ML,ERP**
 
-- 📫 How to reach me **yahyahabib65@gmail.com**
+- 📫 How to reach me **yahyahabib65@gmail.com | yahyahabib@live.com**
 
 - ⚡ Fun fact **I tend to keep things minimal and i don't prefer unnecessary code**
 
