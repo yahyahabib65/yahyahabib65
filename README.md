@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyahabib65&label=Profile%20views&color=0e75b6&style=flat" alt="yahyahabib65" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyahabib65" alt="yahyahabib65" /></a> </p>
+- 🎓 I'm currently pursuing MS in Artificial Intelligence at <a href="https://lums.edu.pk">LUMS</a>
 
 - 🌱 I’m currently learning **Azure, Data Engineering**
 
