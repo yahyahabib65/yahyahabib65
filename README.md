@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 All of my projects are available at [github.com/yahyahabib65](github.com/yahyahabib65)
 
-- 💬 Ask me about **odoo,.NET,SQL,AI,NLP,ML,ERP**
+- 💬 Ask me about **odoo, .NET, SQL, AI, NLP, ML, ERP**
 
 - 📫 How to reach me **yahyahabib65@gmail.com | yahyahabib@live.com**
 
