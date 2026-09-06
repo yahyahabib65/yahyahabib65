@@ -1,40 +1,46 @@
 <h1 align="center">Hi, I'm Yahya Habib 👋</h1>
 <p align="center">
-  Software Engineer · MS in Artificial Intelligence (LUMS)
+  Software Engineer · MS Artificial Intelligence (LUMS)
 </p>
 <p align="center">
-  I build practical software and data-driven solutions across engineering and business domains.
+  4 years building backend systems that hold up in production, now applying that same standard to AI.
 </p>
 
 ---
 
 ## About me
-- 🎓 Pursuing an **MS in Artificial Intelligence** at [LUMS](https://lums.edu.pk)
-- 💼 Software Engineer with interests in **ERP, AI, and scalable systems**
-- 💬 Ask me about **odoo, .NET, SQL, AI, NLP, ML, ERP**
-- ⚡ I prefer clean, minimal, and purposeful code
+- 🎓 MS in Artificial Intelligence from [LUMS](https://lums.edu.pk) — graduated 2026
+- 💼 Software Engineer, mostly living inside enterprise ERP systems and backend architecture and finding ways to bring AI in Enterprise Systems
+- 🧠 Lately: RAG pipelines, fine-tuning LLMs, and data pipelines that don't break the moment real data hits them
+- 💬 Happy to talk Odoo, .NET, SQL, LLMs, RAG, or ERP architecture
 
-## Current focus
-- 🌱 Learning **Azure** and **Data Engineering**
-- 🧠 Exploring applied **AI/ML** for real-world product and business workflows
+## What I've built
+- 🧑‍⚖️ **Wakeel-LLM** — a bilingual (Urdu/English) legal assistant for Pakistan Family Law, with a RAG pipeline over real case law, a fine-tuned TinyLlama model, and an agent that drafts petitions like Khula filings
+- 🌾 **Farm AI**  — fuses satellite imagery with IoT sensor data to predict irrigation needs and crop yield, hitting 82–89% accuracy on irrigation classification
+- 🏏 **Cricket Data Pipeline** — raw match data turned into a clean dataset, an XGBoost model trained on it, and a Streamlit app to make the predictions usable
+- 🖼️ **Image Captioning Analysis** — a Dask-powered dashboard pulling sentiment and theme insights out of 8,092 Flickr8k images and captions
+- 🏢 **Gaming E-Commerce System** — my final year project, a full-stack ASP.NET Core ERP with sales, purchasing, inventory, and finance modules, plus a Java mobile reporting app
 
-## Skills & tools
-**Core:** Odoo · .NET · SQL · Python  
-**AI/Data:** NLP · Machine Learning · Data Engineering  
-**Platform/Workflow:** Azure · Git · Linux
 
-## Projects & portfolio
-- 🔗 GitHub profile: [github.com/yahyahabib65](https://github.com/yahyahabib65)
-- 📁 Explore my repositories for work in software engineering, AI, and ERP-oriented solutions
 
-## Connect with me
-- 📧 yahyahabib65@gmail.com
-- 📧 yahyahabib@live.com
-- 💼 [LinkedIn](https://linkedin.com/in/yahyahabib)
-- 🧠 [Stack Overflow](https://stackoverflow.com/users/23980185)
-- 📊 [Kaggle](https://kaggle.com/yahyahabib)
-- 💻 [HackerRank](https://www.hackerrank.com/yahyahabib65)
-- 🧩 [LeetCode](https://www.leetcode.com/yahyahabib65)
+## Currently
+- 🚀 Figuring out what it actually takes to get AI prototypes into production — model serving, edge deployment, that whole gap
+- 📊 Pushing my data engineering further with Airflow and Kafka
+
+## Stack
+**Languages:** Python · C# · SQL · JavaScript
+<br>
+**AI/ML:** PyTorch · TensorFlow · Scikit-learn · LangChain · Pandas · Numpy
+<br>
+**Data:** PySpark · Airflow · Hadoop · Kafka
+<br>
+**Backend:** ASP.NET · Django · FastAPI · Odoo
+<br>
+**Tools:** Docker · Azure · AWS · PostgreSQL · Git
+
+
+## Elsewhere
+[LinkedIn](https://linkedin.com/in/yahyahabib) · yahyahabib65@gmail.com · [Kaggle](https://kaggle.com/yahyahabib) · [LeetCode](https://www.leetcode.com/yahyahabib65) · [HackerRank](https://www.hackerrank.com/yahyahabib65) · [Stack Overflow](https://stackoverflow.com/users/23980185)
 
 ---
 
